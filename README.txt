@@ -1,0 +1,1 @@
+This is a quick and dirty implementation of the linear regression algorithmn on a small 2d dataset, using only numpy and matplotlib. The purpose of this was purely as an exercise in order to see how it works from scratch.
